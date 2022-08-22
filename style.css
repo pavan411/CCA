@@ -1,0 +1,40 @@
+body{
+    background-color: white
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-size:30px;
+}
+p{
+    font-family: 'Inconsolata', monospace;
+    font-size: 30px;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+.div1{
+    position: absolute;
+    margin-left: 20px;
+ 
+}
+.div2{
+    margin-left: 400px;
+    padding-bottom:110px;
+    padding-top: 100px;
+}
+.div4{
+    width:200px;
+    height: 200px;
+    background-color: blueviolet;
+}
+.div5{
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+}
+.div6{
+    width: 200px;
+    height:200px;
+    background-color: aqua;
+}
